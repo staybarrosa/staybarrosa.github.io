@@ -11,16 +11,16 @@ You can get in touch with us through any of the following channels:
 
 ---
 
-* 📧 **Email**  
+* 📧 **Email**:
 [staybarrosa@gmail.com](mailto:staybarrosa@gmail.com)
 
-* 📸 **Instagram** 
+* 📸 **Instagram**:
 [@staybarrosa](https://www.instagram.com/staybarrosa/)
 
-* 📱 **TikTok**
+* 📱 **TikTok**:
 [@staybarrosa](https://www.tiktok.com/@staybarrosa)
 
-* 🌐 **Website** 
+* 🌐 **Website**:
 [www.staybarrosa.com](https://www.staybarrosa.com)
 
 ---
