@@ -11,7 +11,7 @@ locale: "en_US"
 title: &site_title "Barrosa Stay"
 title_separator: "-"
 subtitle: "Stay at Barrosa, Your Perfect Staycation"
-name: &author_name "Marco Grimaldi"
+name: &author_name "Barrosa Stay"
 email: &author_email "staybarrosa@gmail.com"
 github_username: staybarrosa
 description: &site_description >- # Multiline description
@@ -22,7 +22,7 @@ description: &site_description >- # Multiline description
 url: &site_url "https://staybarrosa.com"  # Changed to CNAME URL
 baseurl: ""  # the subpath of your site, e.g. "/blog"
 repository: "staybarrosa/staybarrosa.github.io"
-logo: &site_logo "/assets/images/sancti-petri-gh.jpg"
+logo: &site_logo "/assets/images/sancti-petri-gh-sunrise.jpg"
 search: true
 search_full_content: true
 search_provider: lunr
@@ -119,8 +119,8 @@ whitelist:
 # Author Information
 author:
   name: *author_name
-  # avatar: "/assets/images/xxx.jpg"
-  bio: "Staying at Barrosa, Your Perfect Staycation"
+  avatar: "/assets/images/sancti-petri-ghibli.jpg"
+  bio: "Vacation Rental at Barrosa Stay · Your Perfect Staycation"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
