@@ -19,7 +19,7 @@ This website is intended to facilitate the sharing of information regarding Barr
 
 ---
 
-## 🏗️👷‍♂️🚧 **Under Construction** 🚧👷‍♂️🏗️
+## 🏗️ **Under Construction**
 
 🚧 Please note that this website is currently under construction. We are working hard to bring you a fantastic experience. 
 
@@ -29,8 +29,8 @@ This website is intended to facilitate the sharing of information regarding Barr
 
 ## 🔗 Quick Links
 
-### [🏗️ About](/about/) 
-About Me and this Website
+### [🏖️ About](/about/) 
+Find out more about Barrosa Stay and our vacation rental
 ### [💬 Contact](/contact/)
 Contact channels to keep in touch
 ### [🕵🏼‍♂️ Privacy Notice](/privacy/)
