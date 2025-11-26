@@ -1,0 +1,35 @@
+<!-- Custom head includes -->
+
+<!-- Google Search Console Verification -->
+<meta name="google-site-verification" content="xxxxxxxxxxxxxxxxxxxxxx" />
+
+<!-- Custom Favicons -->
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+
+<!-- Canonical URL to override GitHub’s domain -->
+<link rel="canonical" href="https://staybarrosa.com{{ page.url }}">
+
+<!-- External links in new tabs -->
+<script>
+(function() {
+  document.addEventListener("DOMContentLoaded", function() {
+    const currentHost = window.location.hostname;
+    document.querySelectorAll("a[href]").forEach(link => {
+      if (link.hostname && link.hostname !== currentHost) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
+    });
+  });
+})();
+</script>
+
+<!-- Related to Umami -->
+{% include analytics.html %}
+
+<!-- Related to SEO -->
+{% seo %}
