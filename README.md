@@ -1,27 +1,37 @@
-# Minimal Mistakes remote theme starter
+# 🏠 Barrosa Stay
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+👋 Welcome to the Barrosa Stay website! This site is intended to facilitate the sharing of information regarding Barrosa Stay.
 
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+👉 [https://staybarrosa.com](https://staybarrosa.com)
+or
+👉 [https://staybarrosa.github.io](https://staybarrosa.github.io)
 
 ---
 
-## Troubleshooting
+## 🏗️ Under Construction
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+🚧 Please note that this website is currently under construction. We are working hard to bring you a fantastic experience. 
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+📻 Stay tuned for updates and new content!
+
+---
+
+## 📬 Contact
+
+💬 You can reach us via the [Contact page](https://staybarrosa.github.io/contact/) on the site.
+
+---
+
+## 📈 Analytics
+
+🔎 This site uses [Umami](https://umami.is/) for privacy-friendly analytics.
+
+---
+
+## 📜 License
+
+🎨 The theme used is [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose, released under the MIT license.
+
+✍🏻 All original content in this repository (posts, resources, CV) is © Barrosa Stay.
+
+---
